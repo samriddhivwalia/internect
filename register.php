@@ -27,6 +27,14 @@
 				              <input type="password" id="password" class="form-control form-control-sm" name="password">
 				              <label for="password">Password</label>
 				            </div>
+					    <div class="md-form form-sm"> <i class="fas fa-map prefix"></i>
+				              <input type="text" id="address1" class="form-control form-control-sm" name="address1">
+				              <label for="address1">Enrollment Number</label>
+				            </div>
+							<div class="md-form form-sm"> <i class="fa fa-map-marker prefix"></i>
+				              <input type="text" id="address2" class="form-control form-control-sm" name="address2">
+				              <label for="address2">Graduation Year</label>
+				            </div>	
 				            
 						</div>
 						
